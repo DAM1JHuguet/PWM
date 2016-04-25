@@ -65,6 +65,9 @@ Si necessitem coneixer el valor actual de la variable counter el podem obtenir m
 PWM_Fade.ino
 Exemple de regulació d'un LED amb un potenciometre, semblant a "Fade.ino" en Examples/01.Basics/Fade in Arduino IDE
 
+PWM_Signal_Plotter.ino
+Aquest exemple mostra tots els senyals del PWM (comptador, cicle de treball i Cicle de encesa/apagada) en un programa de representació gràfica de senyals sèrie, com  StampPlot Pro, Maker Plot o qualsevol programa similar
+
 ## Credits
 
 Aquesta llibreria es fruit d'un treball de l'assignatura de Programació Industrial, al curs de 1er any  de AIRI, a l'IES Jaume Huguet de Valls, i esta basada en les explicacions i suggerències del professor, Dani Flores.
