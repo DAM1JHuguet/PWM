@@ -62,6 +62,9 @@ If you need to know the actual value of the counter variable, you can get it wit
 PWM_Fade.ino
 Example of regulation of a LED with a potenciometer, similar to "fade.ino" in Examples/01.Basics/Fade in Arduino IDE
 
+PWM_Signal_Plotter.ino
+This example shows all PWM signals in a graphic plotteras StampPlot Pro, Maker Plot or another similar software
+
 ## Credits
 
 This library is the result of the Industrial programming course, during the 1st year of AIRIS studies, at IES Jaume  in Valls, and is based on the explanations and suggestions of the course Professor, Dani Flores.
